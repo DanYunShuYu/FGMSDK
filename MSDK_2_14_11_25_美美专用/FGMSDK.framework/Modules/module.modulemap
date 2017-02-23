@@ -1,0 +1,6 @@
+framework module FGMSDK {
+  umbrella header "FGMSDK.h"
+
+  export *
+  module * { export * }
+}

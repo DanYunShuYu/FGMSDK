@@ -1,0 +1,139 @@
+/* 
+  ddd.strings
+  Languages
+
+  Created by laiwan on 16/10/25.
+  Copyright © 2016年 laiwan. All rights reserved.
+*/
+
+//阿拉伯语
+
+//以下为测试界面本地化内容
+"FGRegisterAccount" = "Register account";
+"FGCheckUser" = "Check user";
+"FGPurchase" = "Purchase";
+"FGEvent" = "Event";
+"FGSwitchAccount" = "Switch";
+"FGFAQ" = "FAQ";
+"FGLogout" = "Logout";
+"FGshareBtn" = "Share";
+"FGinviteBtn" = "Invite";
+"FGGiftBtn" = "Gift";
+//以下为测试绑定界面本地化内容
+"FGAccountBind" = "Account Bind";
+"FGBindToGameCenter" = "bind to GameCenter";
+"FGBindToFacebook" = "bind to facebook";
+"FGBindToMutantbox" = "bind to Mutantbox";
+"FGFacebookBinded" = "facebook binded";
+"FGGameCneterBinded" = "GameCenter binded";
+"FGMutantboxBinded" = "Mutantbox binded";
+//以下为测试切换账号界面本地化内容
+"FGAccountSwitch" = "Account Switch";
+"FGSwitchToGameCenter" = "switch to GameCenter";
+"FGSwitchToFacebook" = "switch to facebook";
+"FGSwitchToMutantbox" = "switch to Mutantbox";
+//以下为找回密码界面本地化内容
+//"FGFindPswContent" = "Enter the email address you used when you signed up and we'll send you a  verification code to reset your password";
+//"FGSend" = "Send";
+//以下为找回密码时，成功发送邮件界面的本地化内容
+//"FGFindPswSuccessContent" = "A verification code has been sent to your email.Please input it and your new password in the text-field below";
+//"FGPlaceholderVerificationCode" = "  please input your verification code";
+//"FGPlaceholderPswNew" = "  please input your new passwore";
+//"FGPlaceholderPswConfirmNew" = "  please confirm your new password";
+//"FGReset" = "Reset";
+
+
+
+//以下为正式版本需要本地化的资源
+"FGBind" = "الارتباط";
+
+
+//以下为游客账号切换时弹出的警告框
+"FGWarning" = "تحذير";
+"FGWarningContent" = "التي تقوم بتشغيلها حاليا كضيف، حساب التحويل سوف يؤدي إلى فقدان كل التقدم المحرز الخاص بك. هل تريد الاستمرار؟";
+"FGSwitchBtn" = "مواصلة";
+"FGCancelBtn" = "إلغاء الأمر";
+//以下为游客注册时的提醒内容
+"FGGusetLogin" = "تسجيل دخول ضيف ";
+"FGGuestWarningContent" = "الحساب سيتم فقدان إذا تم حذف اللعبة. تسجيل تمكنك من الوصول إلى الحساب الخاص بك من أجهزة دائرة الرقابة الداخلية.";
+//以下为登录mutantbox界面本地化内容
+"FGPlaceholderEmail" = "  البريد الإلكتروني";
+"FGPlaceholderPsw" = "  كلمة المرور";
+"FGForgotPsw" = "هل نسيت؟";
+"FGLoginBtn" = "تسجيل الدخول";
+"FGCreateNewAccount" = "تسجيل حساب";
+"FGTermsofUse" = "شروط الاستخدام";
+"FGPrivacyPolicy" = "الخصوصية";
+"FGFindPsw" = "نسيت كلمة المرور";
+//以下为创建新账号界面本地化内容
+"FGPlaceholderPswConfirm" = "  إعادة إدخال كلمة المرور";
+"FGSignUp" = "التسجيل";
+"FGSignUpContent" = "عن طريق الاشتراك، يمكنك تأكيد أنك تزيد أعمارهم عن 13 والموافقة على شروط الاستخدام.";
+
+//以下为绑定mutantbox界面本地化内容
+
+
+//以下为各种浮动提示框
+"FGNetworkError" = "خطأ في شبكة الاتصال";
+"FGServerError" = "خطأ في الخادم";
+"FGNeedLogin" = "يتطلب تسجيل الدخول";
+"FGUserHasNotLoginGameCenter" = "غير قادر على الحصول على معلومات آكسس";
+//"FGUserHasNotLoginGameCenter" = "Unable to obtain GameCenter Info";
+"FGAuthorizationDenied" = "فشل التخويل";
+"FGAccountHasBeenUsed" = "هذا الحساب بالفعل ربط";
+"FGUserCancelLogin" = "إلغاء الأمر";
+"FGLogOutSuccess" = "تسجيل الخروج";
+"FGJailBrokenAlert" = "السجن كسر التنبيه";
+"FGInAppPurchaseIsForbidden" = "في التطبيق مشتريات معطل";
+"FGCouldNotGetOrder" = "خطأ في الخادم";
+"FGErrorOccurred" = "خطأ غير معروف، الرجاء إعادة تشغيل التطبيق";
+"FGTransactionFail" = "شراء فشل";
+"FGTransactionCancel" = "إلغاء الشراء";
+"FGTransactionSuccess" = "إكمال الشراء";
+"FGPasswordError" = "خطأ في كلمة المرور";
+"FGPasswordSuccessfullyReset" = "إعادة تعيين كلمة المرور";
+"FGCouldNotGetProductInfo" = "خطأ في المنتج";
+
+"FGEmailAlreadyRegistered" = "البريد الإلكتروني مسجل مسبقاً";
+
+"FGAppleServerError" = "خطأ في الملقم أبل";
+
+
+
+//"FGVerificationCodeCuldNotBeEmpty" = "Enter Verification Code";
+//"FGVerificationCodeIsInvalidFormat" = "Incorrect Verification Code";
+"FGPasswordCuldNotBeEmpty" = "الرجاء إدخال كلمة المرور";
+"FGPasswordMustBeLonger" = "يتطلب كلمة مرور 6 أحرف على الأقل";
+"FGTwoPasswordInputMustBeConsistent" = "لا تتطابق كلمات المرور";
+"FGAccountCouldNotBeEmpty" = "الرجاء إدخال البريد الإلكتروني الخاص بك";
+"FGAccountMustBeValidEmailAddress" = "ويجب مراعاة عنوان بريد إلكتروني صالح ";
+
+
+
+//facebook相关浮动提示框
+//"FGShareSuccess" = "Sharing success";
+//"FGInviteSuccess" = "Inviting success";
+//"FGGiftSuccess" = "Gift success";
+//"FGShareFail" = "Sharing fail";
+//"FGInviteFail" = "Inviting fail";
+//"FGGiftFail" = "Gift fail";
+//"FGShareCancel" = "Sharing cancel";
+//"FGInviteCancel" = "Inviting cancel";
+//"FGGiftCancel" = "Gift cancel";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+

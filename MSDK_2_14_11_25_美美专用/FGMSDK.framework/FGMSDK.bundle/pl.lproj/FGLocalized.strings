@@ -1,0 +1,139 @@
+/* 
+  ddd.strings
+  Languages
+
+  Created by laiwan on 16/10/25.
+  Copyright © 2016年 laiwan. All rights reserved.
+*/
+
+//波兰语
+
+//以下为测试界面本地化内容
+"FGRegisterAccount" = "Register account";
+"FGCheckUser" = "Check user";
+"FGPurchase" = "Purchase";
+"FGEvent" = "Event";
+"FGSwitchAccount" = "Switch";
+"FGFAQ" = "FAQ";
+"FGLogout" = "Logout";
+"FGshareBtn" = "Share";
+"FGinviteBtn" = "Invite";
+"FGGiftBtn" = "Gift";
+//以下为测试绑定界面本地化内容
+"FGAccountBind" = "Account Bind";
+"FGBindToGameCenter" = "bind to GameCenter";
+"FGBindToFacebook" = "bind to facebook";
+"FGBindToMutantbox" = "bind to Mutantbox";
+"FGFacebookBinded" = "facebook binded";
+"FGGameCneterBinded" = "GameCenter binded";
+"FGMutantboxBinded" = "Mutantbox binded";
+//以下为测试切换账号界面本地化内容
+"FGAccountSwitch" = "Account Switch";
+"FGSwitchToGameCenter" = "switch to GameCenter";
+"FGSwitchToFacebook" = "switch to facebook";
+"FGSwitchToMutantbox" = "switch to Mutantbox";
+//以下为找回密码界面本地化内容
+//"FGFindPswContent" = "Enter the email address you used when you signed up and we'll send you a  verification code to reset your password";
+//"FGSend" = "Send";
+//以下为找回密码时，成功发送邮件界面的本地化内容
+//"FGFindPswSuccessContent" = "A verification code has been sent to your email.Please input it and your new password in the text-field below";
+//"FGPlaceholderVerificationCode" = "  please input your verification code";
+//"FGPlaceholderPswNew" = "  please input your new passwore";
+//"FGPlaceholderPswConfirmNew" = "  please confirm your new password";
+//"FGReset" = "Reset";
+
+
+
+//以下为正式版本需要本地化的资源
+"FGBind" = "LINK";
+
+
+//以下为游客账号切换时弹出的警告框
+"FGWarning" = "Ostrzeżenie";
+"FGWarningContent" = "Grasz obecnie jako gość, przełączanie konta spowoduje, że możesz stracić wszystkie swoje postępy. Czy chcesz kontynuować?";
+"FGSwitchBtn" = "Kontynuuj";
+"FGCancelBtn" = "Anuluj";
+//以下为游客注册时的提醒内容
+"FGGusetLogin" = "LOGOWANIE JAKO GOŚĆ";
+"FGGuestWarningContent" = "Konto zostanie utracone, jeśli gra zostanie usunięta. Rejestracja umożliwi użytkownikowi dostęp do konta z innych urządzeń z systemem iOS.";
+//以下为登录mutantbox界面本地化内容
+"FGPlaceholderEmail" = "  EMAIL";
+"FGPlaceholderPsw" = "  HASŁO";
+"FGForgotPsw" = "Nie pamiętasz?";
+"FGLoginBtn" = "ZAREJESTRUJ SIĘ";
+"FGCreateNewAccount" = "Zarejestruj Konto";
+"FGTermsofUse" = "Warunki Użytkowania";
+"FGPrivacyPolicy" = "Prywatność";
+"FGFindPsw" = "ZAPOMNIAŁEM HASŁA";
+//以下为创建新账号界面本地化内容
+"FGPlaceholderPswConfirm" = "  WPROWADŹ PONOWNIE HASŁO";
+"FGSignUp" = "ZAREJESTRUJ SIĘ";
+"FGSignUpContent" = "Logując się użytkownik potwierdza, że ma więcej niż 13 lat i wyraża zgodę na nasze warunki użytkowania.";
+
+//以下为绑定mutantbox界面本地化内容
+
+
+//以下为各种浮动提示框
+"FGNetworkError" = "Błąd Sieci";
+"FGServerError" = "Błąd Serwera";
+"FGNeedLogin" = "Wymaga Logowania";
+"FGUserHasNotLoginGameCenter" = "Nie można uzyskać informacji na temat GameCenter";
+//"FGUserHasNotLoginGameCenter" = "Unable to obtain GameCenter Info";
+"FGAuthorizationDenied" = "Autoryzacja nie powiodła się";
+"FGAccountHasBeenUsed" = "To Konto Jest Już Połączone";
+"FGUserCancelLogin" = "Anuluj";
+"FGLogOutSuccess" = "Wylogowano";
+"FGJailBrokenAlert" = "Włamanie Więzienie Alert";
+"FGInAppPurchaseIsForbidden" = "Zakupy w Aplikacji wyłączone";
+"FGCouldNotGetOrder" = "Błąd Zamówienia";
+"FGErrorOccurred" = "Nieznany Błąd, Uruchom Ponownie Aplikację";
+"FGTransactionFail" = "Zakup Nie Powiódł Się";
+"FGTransactionCancel" = "Zakup Anulowany";
+"FGTransactionSuccess" = "Zakup Zakończony";
+"FGPasswordError" = "Błędne Hasło";
+"FGPasswordSuccessfullyReset" = "Reset Hasła";
+"FGCouldNotGetProductInfo" = "Błąd Produktu";
+
+"FGEmailAlreadyRegistered" = "E-mail Już Zarejestrowany";
+
+"FGAppleServerError" = "Błąd Serwera Apple";
+
+
+
+//"FGVerificationCodeCuldNotBeEmpty" = "Enter Verification Code";
+//"FGVerificationCodeIsInvalidFormat" = "Incorrect Verification Code";
+"FGPasswordCuldNotBeEmpty" = "Wprowadź Ponownie Hasło";
+"FGPasswordMustBeLonger" = "Hasło Wymaga Co Najmniej 6 Znaków";
+"FGTwoPasswordInputMustBeConsistent" = "Hasła Nie Są Identyczne";
+"FGAccountCouldNotBeEmpty" = "Podaj Twój Adres E-mail";
+"FGAccountMustBeValidEmailAddress" = "Konto Musi Zawierać Prawidłowy Adres E-mail ";
+
+
+
+//facebook相关浮动提示框
+//"FGShareSuccess" = "Sharing success";
+//"FGInviteSuccess" = "Inviting success";
+//"FGGiftSuccess" = "Gift success";
+//"FGShareFail" = "Sharing fail";
+//"FGInviteFail" = "Inviting fail";
+//"FGGiftFail" = "Gift fail";
+//"FGShareCancel" = "Sharing cancel";
+//"FGInviteCancel" = "Inviting cancel";
+//"FGGiftCancel" = "Gift cancel";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+

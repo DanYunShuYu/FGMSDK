@@ -1,0 +1,119 @@
+//以下为测试界面本地化内容
+"FGRegisterAccount" = "注册账号";
+"FGCheckUser" = "核对用户";
+"FGPurchase" = "购买";
+"FGEvent" = "事件";
+"FGSwitchAccount" = "切换";
+"FGFAQ" = "常见问题";
+"FGLogout" = "登出";
+"FGshareBtn" = "分享";
+"FGinviteBtn" = "邀请";
+"FGGiftBtn" = "送礼";
+//以下为测试绑定界面本地化内容
+"FGAccountBind" = "账号绑定";
+"FGBindToGameCenter" = "绑定到GameCenter";
+"FGBindToFacebook" = "绑定到facebook";
+"FGBindToMutantbox" = "绑定到Mutantbox";
+"FGFacebookBinded" = "已绑定facebook";
+"FGGameCneterBinded" = "已绑定GameCenter";
+"FGMutantboxBinded" = "已绑定Mutantbox";
+//以下为测试切换账号界面本地化内容
+"FGAccountSwitch" = "账号切换";
+"FGSwitchToGameCenter" = "切换到GameCenter";
+"FGSwitchToFacebook" = "切换到facebook";
+"FGSwitchToMutantbox" = "切换到Mutantbox";
+
+
+
+//以下为正式版本需要本地化的资源
+"FGBind" = "关联";
+
+//以下为游客账号切换到其他渠道时弹出的警告框
+"FGWarning" = "警告";
+"FGWarningContent" = "您当前是游客账号，切换成功后将丢失当前账号，是否继续？";
+"FGSwitchBtn" = "仍然切换";
+"FGCancelBtn" = "取消";
+//以下为游客注册时的提醒内容
+"FGGusetLogin" = "游客登录";
+"FGGuestWarningContent" = "游客账号在删除应用或切换账号时会丢失。使用账号登录可以让您在别的iOS设备上共享游戏进度。";
+//以下为登录mutantbox界面本地化内容
+"FGPlaceholderEmail" = "  请输入您的邮箱";
+"FGPlaceholderPsw" = "  请输入您的密码";
+"FGForgotPsw" = "忘记密码?";
+"FGLoginBtn" = "登录";
+"FGCreateNewAccount" = "创建新账号";
+"FGTermsofUse" = "服务条款";
+"FGPrivacyPolicy" = "隐私政策";
+"FGFindPsw" = "找回密码";
+
+//以下为找回密码界面本地化内容
+//"FGFindPswContent" = "请输入您在Mutantbox注册时填写的邮箱，我们将发送一个验证码到该邮箱。";
+//"FGSend" = "发送";
+
+//以下为找回密码时，成功发送邮件界面的本地化内容
+//"FGFindPswSuccessContent" = "验证码已经成功发送到您的邮箱。请将该验证码和您的新密码输入到下面的文本框中。";
+//"FGPlaceholderVerificationCode" = "  请输入您收到的验证码";
+//"FGPlaceholderPswNew" = "  请输入您的新密码";
+//"FGPlaceholderPswConfirmNew" = "  请再次输入您的新密码";
+//"FGReset" = "确认重置";
+
+//以下为创建新账号界面本地化内容
+"FGPlaceholderPswConfirm" = "  请再次输入您的密码";
+"FGSignUp" = "注册";
+"FGSignUpContent" = "注册前，请确保您已经年满13周岁并且已接受我们的服务条款。";
+
+
+//以下为各种浮动提示框
+"FGNetworkError" = "网络故障";
+"FGServerError" = "服务器出错";
+"FGNeedLogin" = "需要用户登录";
+"FGUserHasNotLoginGameCenter" = "无法获取用户GameCenter信息";
+//"FGUserHasNotLoginGameCenter" = "无法获取用户GameCenter信息";
+"FGAuthorizationDenied" = "用户拒绝授权";
+"FGAccountHasBeenUsed" = "账号已经被关联过了";
+"FGUserCancelLogin" = "用户取消登录";
+"FGLogOutSuccess" = "登出成功";
+"FGJailBrokenAlert" = "在越狱设备上购买存在风险";
+"FGInAppPurchaseIsForbidden" = "应用内购买被禁止";
+"FGCouldNotGetOrder" = "无法获取订单号";
+"FGErrorOccurred" = "购买遇到未知错误，请重启应用以便完成购买";
+"FGTransactionFail" = "购买失败";
+"FGTransactionCancel" = "购买取消";
+"FGTransactionSuccess" = "购买成功，请等待服务器发货";
+"FGPasswordError" = "密码错误";
+"FGPasswordSuccessfullyReset" = "重置密码成功";
+"FGCouldNotGetProductInfo" = "无法获取商品信息";
+"FGEmailAlreadyRegistered" = "邮箱已经被注册过了";
+
+"FGAppleServerError" = "连接苹果服务器出错";
+
+
+
+//"FGVerificationCodeCuldNotBeEmpty" = "验证码不能为空";
+//"FGVerificationCodeIsInvalidFormat" = "验证码格式不正确";
+"FGPasswordCuldNotBeEmpty" = "密码不能为空";
+"FGPasswordMustBeLonger" = "密码至少为6位";
+"FGTwoPasswordInputMustBeConsistent" = "两次输入的密码必须一致";
+"FGAccountCouldNotBeEmpty" = "账号（邮箱）不能为空";
+"FGAccountMustBeValidEmailAddress" = "账号必须为有效的邮箱地址";
+
+
+//facebook分享邀请送礼相关浮动提示框
+//"FGShareSuccess" = "分享成功";
+//"FGInviteSuccess" = "邀请成功";
+//"FGGiftSuccess" = "送礼成功";
+//"FGShareFail" = "分享失败";
+//"FGInviteFail" = "邀请失败";
+//"FGGiftFail" = "送礼失败";
+//"FGShareCancel" = "分享取消";
+//"FGInviteCancel" = "邀请取消";
+//"FGGiftCancel" = "送礼取消";
+
+
+
+
+
+
+
+
+

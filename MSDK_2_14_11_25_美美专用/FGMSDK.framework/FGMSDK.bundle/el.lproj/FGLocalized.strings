@@ -1,0 +1,139 @@
+/* 
+  ddd.strings
+  Languages
+
+  Created by laiwan on 16/10/25.
+  Copyright © 2016年 laiwan. All rights reserved.
+*/
+
+//希腊语
+
+//以下为测试界面本地化内容
+"FGRegisterAccount" = "Register account";
+"FGCheckUser" = "Check user";
+"FGPurchase" = "Purchase";
+"FGEvent" = "Event";
+"FGSwitchAccount" = "Switch";
+"FGFAQ" = "FAQ";
+"FGLogout" = "Logout";
+"FGshareBtn" = "Share";
+"FGinviteBtn" = "Invite";
+"FGGiftBtn" = "Gift";
+//以下为测试绑定界面本地化内容
+"FGAccountBind" = "Account Bind";
+"FGBindToGameCenter" = "bind to GameCenter";
+"FGBindToFacebook" = "bind to facebook";
+"FGBindToMutantbox" = "bind to Mutantbox";
+"FGFacebookBinded" = "facebook binded";
+"FGGameCneterBinded" = "GameCenter binded";
+"FGMutantboxBinded" = "Mutantbox binded";
+//以下为测试切换账号界面本地化内容
+"FGAccountSwitch" = "Account Switch";
+"FGSwitchToGameCenter" = "switch to GameCenter";
+"FGSwitchToFacebook" = "switch to facebook";
+"FGSwitchToMutantbox" = "switch to Mutantbox";
+//以下为找回密码界面本地化内容
+//"FGFindPswContent" = "Enter the email address you used when you signed up and we'll send you a  verification code to reset your password";
+//"FGSend" = "Send";
+//以下为找回密码时，成功发送邮件界面的本地化内容
+//"FGFindPswSuccessContent" = "A verification code has been sent to your email.Please input it and your new password in the text-field below";
+//"FGPlaceholderVerificationCode" = "  please input your verification code";
+//"FGPlaceholderPswNew" = "  please input your new passwore";
+//"FGPlaceholderPswConfirmNew" = "  please confirm your new password";
+//"FGReset" = "Reset";
+
+
+
+//以下为正式版本需要本地化的资源
+"FGBind" = "ΣΥΝΔΕΣΗ";
+
+
+//以下为游客账号切换时弹出的警告框
+"FGWarning" = "Ειδοποίηση";
+"FGWarningContent" = "Έχετε εισέλθει ως επισκέπτης. Αλλάζοντας λογαριασμό θα χάσετε όλη την πρόοδό σας. Θέλετε να συνεχίσετε;";
+"FGSwitchBtn" = "Συνέχεια";
+"FGCancelBtn" = "Άκυρο";
+//以下为游客注册时的提醒内容
+"FGGusetLogin" = "ΕΙΣΟΔΟΣ ΕΠΙΣΚΕΠΤΗ";
+"FGGuestWarningContent" = "Διαγράφοντας το παιχνίδι ο λογαριασμός σας θα χαθεί. Κάνοντας εγγραφή θα έχετε πρόσβαση στο λογαριασμό σας και από άλλες συσκευές iOS.";
+//以下为登录mutantbox界面本地化内容
+"FGPlaceholderEmail" = "  EMAIL";
+"FGPlaceholderPsw" = "  ΚΩΔΙΚΟΣ";
+"FGForgotPsw" = "Ξεχάστε τον κωδικό σας;";
+"FGLoginBtn" = "ΕΙΣΟΔΟΣ";
+"FGCreateNewAccount" = "Εγγραφή";
+"FGTermsofUse" = "Όροι Χρήσης";
+"FGPrivacyPolicy" = "Απόρρητο";
+"FGFindPsw" = "ΞΕΧΑΣΑΤΕ ΤΟΝ ΚΩΔΙΚΟ ΣΑΣ;";
+//以下为创建新账号界面本地化内容
+"FGPlaceholderPswConfirm" = "  ΕΙΣΑΓΕΤΕ ΤΟΝ ΚΩΔΙΚΟ ΣΑΣ ΞΑΝΑ";
+"FGSignUp" = "ΕΓΓΡΑΦΗ";
+"FGSignUpContent" = "Κάνοντας εγγραφή επιβεβαιώνετε ότι είστε άνω των 13 ετών και συμφωνείτε με τους Όρους Χρήσης.";
+
+//以下为绑定mutantbox界面本地化内容
+
+
+//以下为各种浮动提示框
+"FGNetworkError" = "Σφάλμα Δικτύου";
+"FGServerError" = "Σφάλμα Διακομιστή";
+"FGNeedLogin" = "Απαιτείται Σύνδεση";
+"FGUserHasNotLoginGameCenter" = "Αδυναμία ανάκτησης δεδομένων GameCenter";
+//"FGUserHasNotLoginGameCenter" = "Unable to obtain GameCenter Info";
+"FGAuthorizationDenied" = "Αποτυχία Έγκρισης";
+"FGAccountHasBeenUsed" = "Ο λογαριασμός αυτός είναι ήδη συνδεδεμένος";
+"FGUserCancelLogin" = "Άκυρο";
+"FGLogOutSuccess" = "Αποσυνδεδεμένος";
+"FGJailBrokenAlert" = "Προειδοποίηση: Η συσκευή χρησιμοποιεί Jailbreak";
+"FGInAppPurchaseIsForbidden" = "Αγορές Εφαρμογής απενεργοποιημένες";
+"FGCouldNotGetOrder" = "Σφάλμα Παραγγελίας";
+"FGErrorOccurred" = "Άγνωστο σφάλμα. Επανεκκινήστε την εφαρμογή.";
+"FGTransactionFail" = "Αγορά απέτυχε";
+"FGTransactionCancel" = "Αγορά ακυρώθηκε";
+"FGTransactionSuccess" = "Αγορά ολοκληρώθηκε";
+"FGPasswordError" = "Σφάλμα κωδικού";
+"FGPasswordSuccessfullyReset" = "Επαναφορά κωδικού";
+"FGCouldNotGetProductInfo" = "Σφάλμα προϊόντος";
+
+"FGEmailAlreadyRegistered" = "Το email αυτό χρησιμοποιείται ήδη";
+
+"FGAppleServerError" = "Σφάλμα Διακομιστή ";
+
+
+
+//"FGVerificationCodeCuldNotBeEmpty" = "Enter Verification Code";
+//"FGVerificationCodeIsInvalidFormat" = "Incorrect Verification Code";
+"FGPasswordCuldNotBeEmpty" = "Εισάγετε τον κωδικό σας";
+"FGPasswordMustBeLonger" = "Ο κωδικός πρέπει να είναι τουλάχιστον 6 χαρακτήρες";
+"FGTwoPasswordInputMustBeConsistent" = "Οι κωδικοί δεν συμφωνούν";
+"FGAccountCouldNotBeEmpty" = "Εισάγετε το email σας";
+"FGAccountMustBeValidEmailAddress" = "Εισάγετε μία έγκυρη διεύθυνση email ";
+
+
+
+//facebook相关浮动提示框
+//"FGShareSuccess" = "Sharing success";
+//"FGInviteSuccess" = "Inviting success";
+//"FGGiftSuccess" = "Gift success";
+//"FGShareFail" = "Sharing fail";
+//"FGInviteFail" = "Inviting fail";
+//"FGGiftFail" = "Gift fail";
+//"FGShareCancel" = "Sharing cancel";
+//"FGInviteCancel" = "Inviting cancel";
+//"FGGiftCancel" = "Gift cancel";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+

@@ -1,0 +1,139 @@
+/* 
+  ddd.strings
+  Languages
+
+  Created by laiwan on 16/10/25.
+  Copyright © 2016年 laiwan. All rights reserved.
+*/
+
+//意大利语
+
+//以下为测试界面本地化内容
+"FGRegisterAccount" = "Register account";
+"FGCheckUser" = "Check user";
+"FGPurchase" = "Purchase";
+"FGEvent" = "Event";
+"FGSwitchAccount" = "Switch";
+"FGFAQ" = "FAQ";
+"FGLogout" = "Logout";
+"FGshareBtn" = "Share";
+"FGinviteBtn" = "Invite";
+"FGGiftBtn" = "Gift";
+//以下为测试绑定界面本地化内容
+"FGAccountBind" = "Account Bind";
+"FGBindToGameCenter" = "bind to GameCenter";
+"FGBindToFacebook" = "bind to facebook";
+"FGBindToMutantbox" = "bind to Mutantbox";
+"FGFacebookBinded" = "facebook binded";
+"FGGameCneterBinded" = "GameCenter binded";
+"FGMutantboxBinded" = "Mutantbox binded";
+//以下为测试切换账号界面本地化内容
+"FGAccountSwitch" = "Account Switch";
+"FGSwitchToGameCenter" = "switch to GameCenter";
+"FGSwitchToFacebook" = "switch to facebook";
+"FGSwitchToMutantbox" = "switch to Mutantbox";
+//以下为找回密码界面本地化内容
+//"FGFindPswContent" = "Enter the email address you used when you signed up and we'll send you a  verification code to reset your password";
+//"FGSend" = "Send";
+//以下为找回密码时，成功发送邮件界面的本地化内容
+//"FGFindPswSuccessContent" = "A verification code has been sent to your email.Please input it and your new password in the text-field below";
+//"FGPlaceholderVerificationCode" = "  please input your verification code";
+//"FGPlaceholderPswNew" = "  please input your new passwore";
+//"FGPlaceholderPswConfirmNew" = "  please confirm your new password";
+//"FGReset" = "Reset";
+
+
+
+//以下为正式版本需要本地化的资源
+"FGBind" = "LINK";
+
+
+//以下为游客账号切换时弹出的警告框
+"FGWarning" = "Avvertenza";
+"FGWarningContent" = "Stai attualmente giocando come ospite, cambiando account perderai tutti i tuoi progressi. Desideri continuare comunque?";
+"FGSwitchBtn" = "Continua";
+"FGCancelBtn" = "Annulla";
+//以下为游客注册时的提醒内容
+"FGGusetLogin" = "ACCESSO OSPITE";
+"FGGuestWarningContent" = "Questo account verrà perduto nel caso in cui il gioco sia cancellato. Registrandoti avrai la possibilità di accedere al tuo account da altri dispositivi iOS.";
+//以下为登录mutantbox界面本地化内容
+"FGPlaceholderEmail" = "  EMAIL";
+"FGPlaceholderPsw" = "  PASSWORD";
+"FGForgotPsw" = "Dimenticata?";
+"FGLoginBtn" = "REGISTRAZIONE";
+"FGCreateNewAccount" = "Registra Account";
+"FGTermsofUse" = "Condizioni di Utilizzo";
+"FGPrivacyPolicy" = "Privacy";
+"FGFindPsw" = "PASSWORD DIMENTICATA";
+//以下为创建新账号界面本地化内容
+"FGPlaceholderPswConfirm" = "  REINSERIRE LA PASSWORD";
+"FGSignUp" = "REGISTRATI";
+"FGSignUpContent" = "Registrandoti, confermi di avere più di 13 anni di età e di accettare le nostre Condizioni di Utilizzo.";
+
+//以下为绑定mutantbox界面本地化内容
+
+
+//以下为各种浮动提示框
+"FGNetworkError" = "Errore di Rete";
+"FGServerError" = "Errore del Server";
+"FGNeedLogin" = "Accesso Richiesto";
+"FGUserHasNotLoginGameCenter" = "Impossibile ottenere informazioni GameCenter";
+//"FGUserHasNotLoginGameCenter" = "Unable to obtain GameCenter Info";
+"FGAuthorizationDenied" = "Autorizzazione Fallita";
+"FGAccountHasBeenUsed" = "Questo Account è già Collegato";
+"FGUserCancelLogin" = "Annulla";
+"FGLogOutSuccess" = "Disconnesso";
+"FGJailBrokenAlert" = "Allerta Riscontrato Jail -Break";
+"FGInAppPurchaseIsForbidden" = "Acquisti In App Disabilitati";
+"FGCouldNotGetOrder" = "Errore Ordine";
+"FGErrorOccurred" = "Errore Sconosciuto, Per Favore Riavviare l’App";
+"FGTransactionFail" = "Acquisto Fallito";
+"FGTransactionCancel" = "Acquisto Annullato";
+"FGTransactionSuccess" = "Acquisto Completato";
+"FGPasswordError" = "Errore Password";
+"FGPasswordSuccessfullyReset" = "Reset Password";
+"FGCouldNotGetProductInfo" = "Errore Prodotto";
+
+"FGEmailAlreadyRegistered" = "Email Già Registrata";
+
+"FGAppleServerError" = "Errore Server Apple";
+
+
+
+//"FGVerificationCodeCuldNotBeEmpty" = "Enter Verification Code";
+//"FGVerificationCodeIsInvalidFormat" = "Incorrect Verification Code";
+"FGPasswordCuldNotBeEmpty" = "Per Favore Reinserire Password";
+"FGPasswordMustBeLonger" = "La Password Richiede Almeno 6 Caratteri";
+"FGTwoPasswordInputMustBeConsistent" = "Le Password Non Corrispondono";
+"FGAccountCouldNotBeEmpty" = "Per Favore Inserisci la tua Email";
+"FGAccountMustBeValidEmailAddress" = "L’Account Richiede un Indirizzo Email Valido ";
+
+
+
+//facebook相关浮动提示框
+//"FGShareSuccess" = "Sharing success";
+//"FGInviteSuccess" = "Inviting success";
+//"FGGiftSuccess" = "Gift success";
+//"FGShareFail" = "Sharing fail";
+//"FGInviteFail" = "Inviting fail";
+//"FGGiftFail" = "Gift fail";
+//"FGShareCancel" = "Sharing cancel";
+//"FGInviteCancel" = "Inviting cancel";
+//"FGGiftCancel" = "Gift cancel";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+
